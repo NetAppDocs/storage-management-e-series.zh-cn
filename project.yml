@@ -24,7 +24,7 @@ sidebar:
     entries:
     - title: 查看您的 E 系列系统
       url: "/task-view-e-series.html"
-    - title: 从NetApp控制台中删除系统
+    - title: 从NetApp Console中删除系统
       url: "/task-remove-e-series.html"
   - title: 知识和支持
     entries:

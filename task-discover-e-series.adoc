@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-discover-e-series.html 
 keywords: e-series, cluster, discover, manage, discovering, discover e-series 
-summary: NetApp控制台可以发现您本地环境中的 E 系列系统。将 E 系列系统添加到控制台使您能够全面了解混合多云环境中的数据。 
+summary: NetApp Console可以发现您本地环境中的 E 系列系统。将 E 系列系统添加到控制台使您能够全面了解混合多云环境中的数据。 
 ---
 = 探索 E 系列系统
 :hardbreaks:
@@ -14,15 +14,15 @@ summary: NetApp控制台可以发现您本地环境中的 E 系列系统。将 E
 
 
 [role="lead"]
-将 E 系列系统添加到NetApp控制台后，您可以从控制台管理 E 系列系统，并全面了解混合多云环境中的数据基础架构。
+将 E 系列系统添加到NetApp Console后，您可以从控制台管理 E 系列系统，并全面了解混合多云环境中的数据基础架构。
 
-.所需的NetApp控制台角色
-组织管理员、文件夹或项目管理员、存储管理员或系统健康专家。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["了解NetApp控制台访问角色。"^]
+.所需的NetApp Console角色
+组织管理员、文件夹或项目管理员、存储管理员或系统健康专家。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["了解NetApp Console访问角色。"^]
 
 .开始之前
 您需要以下内容：
 
-* 安装在云提供商或您的场所的NetApp控制台代理，通过网络连接 E 系列系统。您必须具有组织管理员角色才能安装控制台代理。如果您不知道您的组织是否有控制台代理，或者是否需要创建一个，请联系您的控制台管理员。 https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["联系您的组织管理员。"^]
+* 安装在云提供商或您的场所的NetApp Console代理，通过网络连接 E 系列系统。您必须具有组织管理员角色才能安装控制台代理。如果您不知道您的组织是否有控制台代理，或者是否需要创建一个，请联系您的控制台管理员。 https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["联系您的组织管理员。"^]
 * 存储系统控制器的域名或IP地址。
 * E 系列系统的管理员凭据。
 

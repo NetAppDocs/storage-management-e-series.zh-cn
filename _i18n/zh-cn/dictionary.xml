@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="532b36a42fa02f3df85b0e70d519a9ac" category="doc">支持 E 系列</block>
+  <block id="8060a341461a61edc489285d4c464062" category="paragraph">您现在可以直接从BlueXP发现您的 E 系列系统。发现 E 系列系统可为您提供混合多云数据的完整视图。</block>
+  <block id="1da5a40083bd16c3443e7eda42875506" category="doc">需要BlueXP访问角色</block>
+  <block id="fd3b9b6f969e334605ecb2deacbd84cc" category="inline-link">了解BlueXP访问角色。</block>
+  <block id="0366ff255ad441b45d52df443a7b3b55" category="paragraph">现在，您需要以下访问角色之一来查看、发现或管理BlueXP中的 E 系列：组织管理员、文件夹或项目管理员、存储管理员或系统健康专家。 <block ref="0b85dd2db07f757bcca365b0bb453a52" category="inline-link-rx"></block></block>
+  <block id="bc2fe31b1e2682a9a79513d792e9c721" category="doc">BlueXP现在是NetApp Console</block>
+  <block id="995c8f79a8e07fbd8d519e45d03d6004" category="paragraph">NetApp Console建立在增强和重组的BlueXP基础之上，可在企业级内部和云环境中集中管理NetApp存储和NetApp Data Services，提供实时洞察、更快的工作流程和简化的管理，并且高度安全且合规。</block>
+  <block id="2ef9d641d45afe99b74ad6f9a9f797ad" category="inline-link-macro">NetApp Console发行说明</block>
+  <block id="9fad6bb6d30ac060d7377371e39b12c0" category="paragraph">有关更改的详细信息，请参阅<block ref="a3987562479f1a66db4eec298b79e00c" category="inline-link-macro-rx"></block>。</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律声明</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">法律声明提供对版权声明、商标、专利等的访问。</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版权</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">商标</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NETAPP、NETAPP 徽标和NetApp商标页面上列出的标志是NetApp, Inc. 的商标。其他公司和产品名称可能是其各自所有者的商标。</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">专利</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">NetApp拥有的专利的最新列表可以在以下位置找到：</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">隐私政策</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">开源</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知文件提供有关NetApp软件中使用的第三方版权和许可的信息。</block>
+  <block id="50dbf63cd0ab8144a287e5cd6a0f1de2" category="inline-link">NetApp Console通知</block>
+  <block id="e672b1ea49afca81ea77f91f12f606ea" category="paragraph"><block ref="e672b1ea49afca81ea77f91f12f606ea" category="inline-link-rx"></block></block>
+  <block id="3f301283c5ded45929fd62f4bfa67671" category="summary">NetApp Console可以发现您本地环境中的 E 系列系统。将 E 系列系统添加到控制台使您能够全面了解混合多云环境中的数据。</block>
+  <block id="e4a9dd1c7d750241fad0d52a3bc7903b" category="doc">探索 E 系列系统</block>
+  <block id="b2a51899f83a8a5d64e65ab5fa2e675c" category="paragraph">将 E 系列系统添加到NetApp Console后，您可以从控制台管理 E 系列系统，并全面了解混合多云环境中的数据基础架构。</block>
+  <block id="1c0afd8bffbeea6059a5f5fedd5fe377" category="paragraph-title">所需的NetApp Console角色</block>
+  <block id="dbbc09735940a2a21109b74dc600b92b" category="inline-link-macro">了解NetApp Console访问角色。</block>
+  <block id="5b961bbd1dd583bebaba59945684aa0d" category="paragraph">组织管理员、文件夹或项目管理员、存储管理员或系统健康专家。 <block ref="df85ea2f8ea618bf5b67be06e51eaa48" category="inline-link-macro-rx"></block></block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">开始之前</block>
+  <block id="4c6a9048ac276eb9391ebe2abd8e0c0d" category="paragraph">您需要以下内容：</block>
+  <block id="d4a6e71a69daabc670296b6e5d940bcf" category="inline-link">联系您的组织管理员。</block>
+  <block id="7fff1f9ee7be655fe103cee433bc0db8" category="list-text">安装在云提供商或您的场所的NetApp Console代理，通过网络连接 E 系列系统。您必须具有组织管理员角色才能安装控制台代理。如果您不知道您的组织是否有控制台代理，或者是否需要创建一个，请联系您的控制台管理员。<block ref="0a429c936e168ea5991bcfda83872d22" category="inline-link-rx"></block></block>
+  <block id="041fa896c7093cbacc84c8fac7b2628b" category="list-text">存储系统控制器的域名或IP地址。</block>
+  <block id="0c14e149f5bac18472d9c5989095d19e" category="list-text">E 系列系统的管理员凭据。</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步骤</block>
+  <block id="c27deb5ada399336a287848889d2032c" category="list-text">从导航菜单中，选择*存储&gt;管理*。</block>
+  <block id="7f3f19386a813229841993e3417307ee" category="list-text">从“*系统*”页面中，选择“*添加*”，然后选择“*本地*”。</block>
+  <block id="fd4854ee5e2a3643d9ffbf8e90ead3ef" category="list-text">在*E-Series*旁边，选择*Discover*。</block>
+  <block id="51ccfdd63a3a2273215183805bde7d64" category="list-text">在“E 系列集群详细信息”页面上，输入存储系统控制器的域名或 IP 地址、系统的管理员凭据，然后选择“添加”。</block>
+  <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp以多种方式为BlueXP提供支持。全天候提供广泛的免费自助支持选项，例如知识库 (KB) 文章和社区论坛。您的支持注册包含通过网络工单获取的远程技术支持。</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">获取帮助</block>
+  <block id="2feeca48692986e9cc471ec61f847fca" category="paragraph">NetApp以多种方式为NetApp Console及其云服务提供支持。全天候提供广泛的免费自助支持选项，例如知识库 (KB) 文章和社区论坛。您的支持注册包含通过网络工单获取的远程技术支持。</block>
+  <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">获取云提供商文件服务的支持</block>
+  <block id="317cbd2c4fdbfd06a6c66bcd3f57d7ad" category="paragraph">有关云提供商文件服务、其基础设施或使用该服务的任何解决方案的技术支持，请参阅该产品的文档。</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">适用于ONTAP 的Amazon FSx</block>
+  <block id="359d8b16e442ffaa72e03c95fcd60448" category="list-text"><block ref="359d8b16e442ffaa72e03c95fcd60448" category="inline-link-macro-rx"></block></block>
+  <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
+  <block id="153836c062a78213f2aa165322254aa4" category="list-text"><block ref="153836c062a78213f2aa165322254aa4" category="inline-link-macro-rx"></block></block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp Volumes</block>
+  <block id="0d592360c983f234b130127efee38805" category="list-text"><block ref="0d592360c983f234b130127efee38805" category="inline-link-macro-rx"></block></block>
+  <block id="68e6fe8cde496154d24fd032b4262070" category="paragraph">要获得特定于NetApp及其存储解决方案和数据服务的技术支持，请使用下面描述的支持选项。</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">使用自助选项</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">这些选项每周 7 天、每天 24 小时免费提供：</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文档</block>
+  <block id="5bb94d173380c00577f5e04b6f26bb94" category="paragraph">您当前正在查看的NetApp Console文档。</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">知识库</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="0e20091afcea2d83d0033a933ba85092" category="paragraph">搜索NetApp知识库以查找有助于解决问题的文章。</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">社区</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="777d75a90b107e4f18469f82c4f81fe2" category="paragraph">加入NetApp Console社区，关注正在进行的讨论或创建新的讨论。</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">向NetApp支持创建案例</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">除了上述自助支持选项之外，您还可以在激活支持后与NetApp支持专家合作解决任何问题。</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">开始之前</block>
+  <block id="c406bf0ac8ac87bc5bb7132a7351b2ae" category="inline-link">了解如何管理与控制台登录相关的凭据</block>
+  <block id="377118f28487e70bd456993144b72fc7" category="list-text">要使用“创建案例”功能，您必须首先将您的NetApp支持站点凭据与您的控制台登录关联。<block ref="68c4321a756e3ffe955b62cff6fea46d" category="inline-link-rx"></block> 。</block>
+  <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">如果您要为具有序列号的ONTAP系统打开案例，那么您的 NSS 帐户必须与该系统的序列号相关联。</block>
+  <block id="0ab80a63088581d58dcf067051f4c894" category="list-text">在NetApp Console中，选择“帮助”&gt;“支持”。</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">在“*资源*”页面上，选择“技术支持”下的可用选项之一：</block>
+  <block id="6a1b74969231967ed071d465206b15c7" category="list-text">如果您想通过电话与某人交谈，请选择“致电我们”。您将被引导至 netapp.com 上的一个页面，其中列出了您可以拨打的电话号码。</block>
+  <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">选择“创建案例”向NetApp支持专家开具一张票：</block>
+  <block id="a1123cd59d7bd876c080c33906ae65ce" category="list-text">*服务*：选择与问题相关的服务。例如，* NetApp Console* 特定于控制台内的工作流或功能的技术支持问题。</block>
+  <block id="987df7518e2afb50a860647c832afd13" category="list-text">*系统*：如果适用于存储，请选择* Cloud Volumes ONTAP* 或 *On-Prem*，然后选择相关的工作环境。</block>
+  <block id="8f8e8a86e5f52b6186a37bdf266c4320" category="paragraph">系统列表位于控制台组织范围内，并且您在顶部横幅中选择了控制台代理。</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*案例优先级*：选择案例的优先级，可以是低、中、高或严重。</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">要了解有关这些优先事项的更多详细信息，请将鼠标悬停在字段名称旁边的信息图标上。</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*问题描述*：提供问题的详细描述，包括任何适用的错误消息或您执行的故障排除步骤。</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*其他电子邮件地址*：如果您想让其他人知道此问题，请输入其他电子邮件地址。</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*附件（可选）*：一次最多上传五个附件。</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每个附件文件大小限制为 25 MB。支持以下文件扩展名：txt、log、pdf、jpg/jpeg、rtf、doc/docx、xls/xlsx 和 csv。</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">创建案例表单的屏幕截图，可让您向NetApp支持创建案例。</block>
+  <block id="77c89527ec8a9f89b24c5579d19b3b4b" category="paragraph"><block ref="77c89527ec8a9f89b24c5579d19b3b4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成后</block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">将会出现一个弹出窗口，其中显示您的支持案例编号。NetApp支持专家将审查您的案例并尽快回复您。</block>
+  <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">要查看支持案例的历史记录，您可以选择*设置&gt;时间线*并查找名为“创建支持案例”的操作。最右边的按钮可让您展开操作以查看详细信息。</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">尝试创建案例时，您可能会遇到以下错误消息：</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">“您无权针对所选服务创建案例”</block>
+  <block id="178fdaf97b1d1577437f11ee9d5e5229" category="paragraph">此错误可能意味着 NSS 帐户及其关联的记录公司与NetApp Console帐户序列号的记录公司不同（即。960xxxx）或工作环境序列号。您可以使用以下选项之一寻求帮助：</block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">提交非技术案例<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="e1100b46295d42ed50ba7a4630710164" category="section-title">管理您的支持案例</block>
+  <block id="316508a3483178100806a9d44b49aba2" category="paragraph">您可以直接从控制台查看和管理活动和已解决的支持案例。您可以管理与您的 NSS 帐户和公司相关的案例。</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">请注意以下事项：</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">页面顶部的案例管理仪表板提供两种视图：</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">左侧视图显示了您提供的用户 NSS 帐户在过去 3 个月内打开的案件总数。</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">右侧的视图根据您的用户 NSS 帐户显示了过去 3 个月内贵公司级别开设的案件总数。</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">表中的结果反映了与您选择的视图相关的案例。</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">您可以添加或删除感兴趣的列，并且可以过滤优先级和状态等列的内容。其他列仅提供排序功能。</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">请查看以下步骤以了解更多详细信息。</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">在每个案件级别，我们提供更新案件记录或关闭尚未关闭或待关闭状态的案件的功能。</block>
+  <block id="9163e8bca6fd93c080d35ab49e3efdfa" category="list-text">在NetApp Console中，选择“帮助”&gt;“支持”。</block>
+  <block id="2019fd19051c3ef493dbbb9ca65bab87" category="list-text">选择*案例管理*，如果出现提示，请将您的 NSS 帐户添加到控制台。</block>
+  <block id="75e54e3a6fdbf43ed890669e079d7594" category="paragraph">*案例管理*页面显示与您的控制台用户帐户关联的 NSS 帐户相关的未结案例。这与出现在 *NSS 管理* 页面顶部的 NSS 帐户相同。</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">（可选）修改表中显示的信息：</block>
+  <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">在“组织的案例”下，选择“查看”以查看与您的公司相关的所有案例。</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">通过选择精确的日期范围或选择不同的时间范围来修改日期范围。</block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">过滤列的内容。</block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">表格中出现的加号图标</block>
+  <block id="8ac6be88c1aa79062825a147fb263b0e" category="list-text">通过选择<block ref="500a336e7ba1c54bcffba4e27bda4eb6" category="inline-image-macro-rx" type="image"></block>然后选择您想要显示的列。</block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">表格最后一列中出现的带有三个点的图标</block>
+  <block id="049b7b9fab1242f5e715952973c9474d" category="list-text">通过选择管理现有案例<block ref="7381d9baeaf62eb099ce84f1a21ed5ca" category="inline-image-macro-rx" type="image"></block>并选择其中一个可用选项：</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*查看案例*：查看有关特定案例的完整详细信息。</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*更新案例说明*：提供有关您的问题的更多详细信息，或选择*上传文件*以附加最多五个文件。</block>
+  <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*结案*：提供有关结案原因的详细信息，然后选择*结案*。</block>
+  <block id="1e787f6c7fa361af379958de0d69217c" category="summary">如果您不再想从控制台管理 E 系列系统，请从NetApp Console中删除它。</block>
+  <block id="b3537131b9a4be0fe4608ea85fca5a77" category="doc">从NetApp Console中删除 E 系列</block>
+  <block id="ef6cf5f3be8e27fa1c6ec52da3bc0e2a" category="paragraph">如果您不再想从NetApp Console管理 E 系列系统，请将其删除。</block>
+  <block id="5b3ccf57ef0ece7b51075a4b22ee3c2c" category="paragraph">组织管理员、文件夹或项目管理员或存储管理员。 <block ref="df85ea2f8ea618bf5b67be06e51eaa48" category="inline-link-macro-rx"></block></block>
+  <block id="f2f994bf92b922059ae6fb1b70f4aee6" category="paragraph">删除NetApp Console系统不会影响 E 系列系统。您可以随时重新发现它。</block>
+  <block id="70d5b3c1fa57d5c2ed1d48b73f0079a9" category="list-text">在*系统*页面上，选择 E 系列系统。</block>
+  <block id="b8dc050f4cabd621e66612bd76c5bb89" category="list-text">选择菜单图标并选择*从工作区中删除*。</block>
+  <block id="b7dd0331ad4ede9488c2fd01dda69e83" category="list-text">选择*删除*进行确认。</block>
+  <block id="243263104c829e77835d632f591230d5" category="summary">在向NetApp技术支持部门提交支持案例之前，您需要向BlueXP添加一个NetApp支持站点帐户，然后注册以获得支持。</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">注册以获得支持</block>
+  <block id="776abbf4d80cbef17bd3c86ff37b2257" category="paragraph">需要进行支持注册才能获得针对NetApp Console及其存储解决方案和数据服务的技术支持。还需要支持注册才能启用Cloud Volumes ONTAP系统的关键工作流程。</block>
+  <block id="ba4e23e03f4354a0f1ef2781272c8477" category="paragraph">注册支持并不能使NetApp获得云提供商文件服务的支持。有关云提供商文件服务、其基础设施或使用该服务的任何解决方案的技术支持，请参阅该产品文档中的“获取帮助”。</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支持注册概述</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">激活支持权利的注册方式有两种：</block>
+  <block id="869a868c87f6fb61410cfd773b4f1bab" category="list-text">注册您的NetApp Console帐户序列号（您的 20 位 960xxxxxxxxx 序列号位于控制台中的“支持资源”页面上）。</block>
+  <block id="be0b51de4268d87101344aa0368b4403" category="paragraph">这可作为控制台内任何服务的单一支持订阅 ID。每个控制台帐户都必须注册。</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">在您的云提供商市场中注册与订阅相关的Cloud Volumes ONTAP序列号（这些是 20 位 909201xxxxxxxx 序列号）。</block>
+  <block id="3cf9fb70d6921dd90583621f028a395f" category="paragraph">这些序列号通常称为_PAYGO 序列号_，由NetApp Console在Cloud Volumes ONTAP部署时生成。</block>
+  <block id="bf516b6498e37e816d29ae43ae132f74" category="paragraph">注册两种类型的序列号可以实现开立支持票和自动生成案例等功能。通过将NetApp支持站点 (NSS) 帐户添加到控制台即可完成注册，如下所述。</block>
+  <block id="ba5983207e417797fefd5b9374ab4a97" category="section-title">注册NetApp Console以获取NetApp支持</block>
+  <block id="dcb7105ba6e3d9411b05e726848feb80" category="paragraph">要注册支持并激活支持权利，您的NetApp Console帐户中的一名用户必须将NetApp支持站点帐户与其控制台登录名关联。如何注册NetApp支持取决于您是否已经拥有NetApp支持站点 (NSS) 帐户。</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">拥有 NSS 帐户的现有客户</block>
+  <block id="ed5bddb699a442b85bc1bb8e1516fe57" category="paragraph">如果您是拥有 NSS 帐户的NetApp客户，则只需通过控制台注册即可获得支持。</block>
+  <block id="76bc427c3d9c4b81dc353078b942f991" category="list-text">选择“*管理*”&gt;“*凭证*”。</block>
+  <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">选择*用户凭证*。</block>
+  <block id="e9451600769b4bf4b20ca941ba9e6d19" category="list-text">选择*添加 NSS 凭据*并按照NetApp支持站点 (NSS) 身份验证提示进行操作。</block>
+  <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">要确认注册过程是否成功，请选择“帮助”图标，然后选择“*支持*”。</block>
+  <block id="1d4ea9fd10f6cfcd6f6fe1f861d354a4" category="paragraph">*资源*页面应显示您的控制台帐户已注册以获得支持。</block>
+  <block id="afe8240ca62f4b72006980ff64d371b8" category="paragraph">请注意，如果其他控制台用户尚未将NetApp支持站点帐户与其登录名关联，他们将看不到相同的支持注册状态。但是，这并不意味着您的帐户没有注册支持。只要组织中的一名用户遵循了这些步骤，您的帐户就已注册。</block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">现有客户但没有 NSS 账户</block>
+  <block id="42eaca1e1c2d9e1f04e932eeaa6d129d" category="paragraph">如果您是现有的NetApp客户，拥有现有许可证和序列号但没有 NSS 帐户，则需要创建一个 NSS 帐户并将其与您的控制台登录关联。</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp支持站点用户注册表</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">通过完成以下操作创建NetApp支持站点帐户<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">请务必选择适当的用户级别，通常为* NetApp客户/最终用户*。</block>
+  <block id="bd33c4539c7d6985f6edafd4a4f2ba1d" category="list-text">请务必复制上面用于序列号字段的控制台帐户序列号（960xxxx）。这将加快账户处理速度。</block>
+  <block id="9b1f48f88cd439b7a50fe3e76eb8a853" category="list-text">完成以下步骤，将您的新 NSS 帐户与您的控制台登录名关联<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp全新产品</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">如果您是NetApp新用户并且没有 NSS 帐户，请按照以下步骤操作。</block>
+  <block id="e7e9f49f4584c68b9d97c578e73b7583" category="list-text">在控制台的右上角，选择“帮助”图标，然后选择“*支持*”。</block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">从支持注册页面找到您的帐户 ID 序列号。</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">帮助菜单的屏幕截图，其中支持是第一个选项</block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp 的支持注册网站</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">导航至<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block>并选择*我不是注册的NetApp客户*。</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">填写必填字段（带有红色星号的字段）。</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">在*产品线*字段中，选择*云管理器*，然后选择适用的计费提供商。</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">从上面的步骤 2 复制您的帐户序列号，完成安全检查，然后确认您已阅读 NetApp 的全球数据隐私政策。</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">一封电子邮件会立即发送到提供的邮箱以完成此安全交易。如果几分钟内没有收到验证电子邮件，请务必检查您的垃圾邮件文件夹。</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">从电子邮件中确认操作。</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">确认向NetApp提交您的请求并建议您创建NetApp支持站点帐户。</block>
+  <block id="a2454703f88e5bf5b433ae850a87151b" category="list-text">请务必复制上面用于序列号字段的帐户序列号（960xxxx）。这将加快处理速度。</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp应该在此过程中与您联系。这是针对新用户的一次性入职培训。</block>
+  <block id="629757336278be576456cf315303b178" category="paragraph">拥有NetApp支持站点帐户后，请按照以下步骤将该帐户与您的控制台登录关联<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="3e616bae81890a6c8fae17c9b45af152" category="section-title">关联 NSS 凭据以获得Cloud Volumes ONTAP支持</block>
+  <block id="f22d1a855e255746a6b925a3b22f7838" category="paragraph">需要将NetApp支持站点凭据与您的控制台帐户关联，才能为Cloud Volumes ONTAP启用以下关键工作流程：</block>
+  <block id="a0518a10626dc11fd00e2d20265ad240" category="list-text">注册即用即付Cloud Volumes ONTAP系统以获得支持</block>
+  <block id="321aadf78ef73521712291b7aba6411f" category="paragraph">需要提供您的 NSS 帐户才能激活对您的系统的支持并获得对NetApp技术支持资源的访问权限。</block>
+  <block id="d51b2b497db445a16b1c9583c1abbb59" category="list-text">自带许可证 (BYOL) 时部署Cloud Volumes ONTAP</block>
+  <block id="f3cd224f9506684fa3b5e2b89b2a566c" category="paragraph">需要提供您的 NSS 帐户，以便控制台可以上传您的许可证密钥并启用您购买的期限的订阅。这包括期限续订的自动更新。</block>
+  <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">将Cloud Volumes ONTAP软件升级到最新版本</block>
+  <block id="daf104544b5203a46e1580e1b8583f1f" category="paragraph">将 NSS 凭据与您的NetApp Console帐户关联与将 NSS 帐户与控制台用户登录关联不同。</block>
+  <block id="5bc1315a63455544e7a917a7cc968939" category="paragraph">这些 NSS 凭证与您的特定控制台帐户 ID 相关联。属于控制台组织的用户可以从*支持 &gt; NSS 管理*访问这些凭据。</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">如果您有客户级帐户，则可以添加一个或多个 NSS 帐户。</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">如果您有合作伙伴或经销商帐户，则可以添加一个或多个 NSS 帐户，但不能与客户级帐户一起添加。</block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">选择*NSS 管理 &gt; 添加 NSS 帐户*。</block>
+  <block id="85b9386ed443776127e099931d73448a" category="list-text">当出现提示时，选择“*继续*”以重定向到 Microsoft 登录页面。</block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp使用 Microsoft Entra ID 作为特定于支持和许可的身份验证服务的身份提供者。</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">在登录页面，提供您的NetApp支持站点注册的电子邮件地址和密码以执行身份验证过程。</block>
+  <block id="7687b0a57d5cb728d9fb892dfc814715" category="paragraph">这些操作使控制台能够使用您的 NSS 帐户进行许可证下载、软件升级验证和未来支持注册等操作。</block>
+  <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">NSS 帐户必须是客户级帐户（不是访客或临时帐户）。您可以拥有多个客户级 NSS 帐户。</block>
+  <block id="27387009488fe78dcc7cb7e3e432792f" category="list-text">如果该帐户是合作伙伴级别帐户，则只能有一个 NSS 帐户。如果您尝试添加客户级 NSS 帐户并且合作伙伴级帐户已存在，您将收到以下错误消息：</block>
+  <block id="d926847e4634e19a1aa7358becc0fa27" category="paragraph">“此帐户不允许使用 NSS 客户类型，因为已经存在不同类型的 NSS 用户。”</block>
+  <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">如果您已有客户级 NSS 帐户并尝试添加合作伙伴级帐户，情况也是如此。</block>
+  <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">成功登录后， NetApp将存储 NSS 用户名。</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">三个水平点的图标</block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">这是系统生成的映射到您的电子邮件的 ID。在*NSS 管理*页面上，您可以显示来自<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block>菜单。</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">如果您需要刷新登录凭证令牌，还有一个*更新凭证*选项<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block>菜单。</block>
+  <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">使用此选项会提示您再次登录。请注意，这些帐户的令牌将在 90 天后过期。我们将发布通知来提醒您此事。</block>
+  <block id="48747586cc33252dbf6de35e44c34ea7" category="summary">发现 E 系列系统后，您可以查看有关容量分布、卷和主机的详细信息。</block>
+  <block id="a6bf4ab8bf30a856550c73d74c1973e1" category="doc">查看您的 E 系列系统</block>
+  <block id="34333d2783171ddc2c4a2d45b04576db" category="inline-link-macro">了解控制台访问角色。</block>
+  <block id="d2749ed7e224cdeb28989aa89857961d" category="paragraph">组织管理员、文件夹或项目管理员、存储管理员或系统健康专家。 <block ref="42df8f700eadc46d3f2849494d83725a" category="inline-link-macro-rx"></block></block>
+  <block id="7624013584248ccbdf6a663e3d449c44" category="list-text">在*系统*页面上，选择您想要查看的 E 系列系统。</block>
+  <block id="b93d27c6ac0f969ed8d14696640cc791" category="list-text">选择任何可用的菜单选项来查看有关 E 系列系统的更多详细信息：</block>
+  <block id="120bdfb3dd832b139057f994d7d146df" category="list-text">*概览*：系统容量分布（已分配、可用和未分配的容量）、卷数、主机数等的详细视图。</block>
+  <block id="9fccdfdbc370e982b3ce35b1add8049a" category="list-text">*卷*：有关系统上卷的详细信息，包括分配、RAID 级别、分配的容量等。</block>
+  <block id="d9dd2d956a60f0b34b5143e1e91f8d00" category="list-text">*主机*：有关向存储系统上的卷发送 I/O 的主机的详细信息。</block>
+  <block id="13a22b88b0e5c69fd504248e73b90c38" category="summary">了解在BlueXP中管理 E 系列系统的新功能。</block>
+  <block id="8d6bb4ca1063ab855a4883d13637c8a9" category="doc">E系列管理的新功能</block>
+  <block id="624d3ca4c9ed7c55adc29ba0fa7c7d83" category="paragraph">了解在NetApp Console中管理 E 系列系统的新功能。</block>
+  <block id="60cb699c3ab20c62c28cbc8ba6498f15" category="section-title">2025年10月6日</block>
+  <block id="e48502083eb8949c8f65b2ccddd5adec" category="section-title">2025年5月12日</block>
+  <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">2022年9月18日</block>
+  <block id="55da4a3644910775d9d30ede88b52e42" category="sidebar">从NetApp Console发现您的 E 系列系统，以获得混合多云数据的完整视图。</block>
+  <block id="ae36c6babb0825817280d77792a470d6" category="sidebar">使用BlueXP 的E 系列管理</block>
+  <block id="d909b1ed977f1659abbea545ee757e38" category="sidebar">从NetApp Console发现您的 E 系列系统，以获得混合多云数据的完整视图。</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">开始使用</block>
+  <block id="b9196557da9e22849478c157e8570f9d" category="sidebar">管理 E 系列系统</block>
+  <block id="118da51e47a85cf865a6f6f610103b38" category="sidebar">从NetApp Console中删除系统</block>
+  <block id="f6bd0d7447ff66cc6b859603a88fbde9" category="sidebar">相关链接</block>
+  <block id="d21856281fd648356afd1be8eca19be7" category="sidebar">用于NetApp Console之外的管理的 E 系列文档</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">博客和社区</block>
+  <block id="3c031b939f6ec312ee601d021e7a6644" category="sidebar">NetApp Console</block>
+  <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 社区</block>
+  <block id="421eeeca306bdf1873654f04f6d8e61e" category="sidebar">E系列文档</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">什么是新的</block>
+  <block id="73aa3abf81dd5e17c789fa2bc7ad6cb9" category="sidebar">从NetApp Console中删除系统</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知识和支持</block>
+</blocks>

@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: 发现 E 系列系统后，您可以查看有关容量分布、卷和主机的详细信息。 
+---
+= 查看您的 E 系列系统
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+发现 E 系列系统后，您可以查看有关容量分布、卷和主机的详细信息。
+
+.所需的NetApp控制台角色
+组织管理员、文件夹或项目管理员、存储管理员或系统健康专家。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["了解控制台访问角色。"^]
+
+.步骤
+. 从导航菜单中，选择*存储>管理*。
+. 在*系统*页面上，选择您想要查看的 E 系列系统。
+. 选择任何可用的菜单选项来查看有关 E 系列系统的更多详细信息：
++
+** *概览*：系统容量分布（已分配、可用和未分配的容量）、卷数、主机数等的详细视图。
+** *卷*：有关系统上卷的详细信息，包括分配、RAID 级别、分配的容量等。
+** *主机*：有关向存储系统上的卷发送 I/O 的主机的详细信息。
+
+
+

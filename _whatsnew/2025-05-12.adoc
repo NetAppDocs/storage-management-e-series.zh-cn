@@ -6,4 +6,4 @@
 
 === 需要BlueXP访问角色
 
-现在，您需要以下访问角色之一来查看、发现或管理BlueXP中的 E 系列：组织管理员、文件夹或项目管理员、存储管理员或系统健康专家。  https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html["了解BlueXP访问角色。"^]
+您现在需要以下访问角色之一才能在 BlueXP 中查看、发现或管理 E-Series：Organization admin、Folder or project admin、Storage admin 或 System health specialist。 https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["了解BlueXP访问角色。"^]
